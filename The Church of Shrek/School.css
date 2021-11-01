@@ -161,3 +161,10 @@ h1  {
 .schooltextcolour{
     color: #A23E48;
 }
+.subjectsbackground{
+    background-color: #090808;
+}
+.subjectsfont{
+    font: BW Quinta Pro Light;
+    color: #777B84;
+}
