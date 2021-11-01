@@ -1,0 +1,25 @@
+@keyframes fade-in-animation {
+    from {
+        opacity: 0;
+        transform: rotate(-360deg);
+    }
+    to {
+        opacity: 1;
+        transform: rotate(0deg);
+    }
+}
+.blinking-colour{
+    animation-name: blink-colour-animation;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes blink-colour-animation {
+    0% {color: lightgreen}
+    30%{color: #067900;}
+    45% {color: #005d0d}
+    60% {color: #085700}
+    75% {color: #084800}
+    90% {color: #0c3b00}
+    100% {color:#171717;}
+}

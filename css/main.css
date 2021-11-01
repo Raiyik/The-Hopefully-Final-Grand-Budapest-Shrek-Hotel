@@ -1,0 +1,168 @@
+
+a {
+    color: lime;
+}
+.GetOut{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 93px;
+}
+hi {
+    color: pink;
+}
+.shrek {
+    color:yellowgreen;
+}
+.readable {
+    color: whitesmoke;
+    font-size: medium;
+}
+
+.greenmegamind {
+    background-color:brown; 
+                
+}
+body table tr th{
+    color: white; 
+} 
+.imageFool{
+    text-align: center;
+    font-size: large;
+}
+
+.bodylesson1{
+    color:green;
+    background-color:brown;
+    border: solid;
+    border-width: 20px;
+    margin: 20px;
+}
+.donkeycolor{
+    text-align: center;
+    background-color: aqua;
+    color: rgb(7, 2, 2);
+    border-style: dotted;
+    font-size: medium;
+}
+.donkeyfont{
+    color: blanchedalmond;
+}
+.evenline{
+    background-color: brown;
+    color: cornsilk;
+    
+}
+.headdonkey{
+    margin: 10px;
+    padding-top: 7%;
+    padding-bottom: 10px;
+    border: 10px darkgreen;
+}
+.homepagestuff{
+    margin: 10px;
+    border: 10px;
+    color: darkgrey;
+}
+.homepagebody {
+    background-color: #F7F7F2;
+    color: #222725;
+    position: sticky;
+}
+.header {
+    background-color: #899878;
+    color: #121113;
+    font-size: xx-large;
+    text-align: center;
+    border: 50px;
+}
+.footer {
+    background-color:#E4E6C3;
+    color: #121113;
+    font-size: medium;
+    text-align: center;
+    
+}
+.liho {
+    background-color:#E4E6C3;
+    color: #121113;
+    font-size: medium;
+    text-align: center;
+}
+.liho2{
+    background-color: #899878;
+    color: #F7F7F2;
+    font-size: medium;
+    text-align: center;
+}
+.footer1 {
+    background-color: #899878;
+    color: #F7F7F2;
+    font-size: medium;
+    text-align: center;
+}
+.tunkuabdulrahman {
+    background-color: #899878;
+    border: solid;
+    font-size: large;
+    top: 0px;
+    position:sticky;
+}
+h1  {
+    border: 3px solid 
+}
+
+.fiona_backgroundimage {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/353/126/418/backgrounds-shrek-hd-wallpaper-thumb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.donkeybackgroundcolor {
+    background-color: peru; 
+}
+.centre {
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    padding-left: 400px
+;
+}
+.children_code_left{
+    display: flex;
+    float: left;
+}
+.children_code_right {
+    display: flex;
+}
+.wrapper {
+    width: 900px;
+}
+.sidebar-left {
+    background:cornflowerblue;
+}
+.dropdown {
+    display: inline-block;
+}
+.dropdown_content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    color:green;
+}
+.dropdown_image {
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.centreimage {
+    text-align: center;
+}
+.dropdown:hover .dropdown_content{
+    display: block;
+}
+.fade-in{
+    animation-name: fade-in-animation;
+    animation-duration: 1.65s;
+}
+.headershrek {
+    font-size: xx-large;
+    text-align: center;
+    border: 50px;
+}
